@@ -11,8 +11,7 @@
 #+TITLE: Welcome to ...
 
 * ... my timeline
-Here I'm planning to subsequently write about topics of my personal
-interest.
+This might grow into a blog.
 
 # ** Handling Minor and Major Upgrades in NetBSD
 ** [[https:./articles-netbsd-backup/][Backup and restore in NetBSD]]
