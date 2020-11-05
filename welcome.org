@@ -1,20 +1,24 @@
-# -*- org-html-postamble-format:(("en" "<p class="author">Author: %a
-# (Reddit: <a href="https://www.reddit.com/user/e17i">u/e17i</a>)</p> <p>Made on
-# emacs org-mode with <a href="https://jessekelly881-rethink.surge.sh/">Rethink</a></p>"));
-# org-html-postamble: t -*-
-#
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/chrome/rethink.css" />
 #+HTML_HEAD_EXTRA: <img src="/chrome/image1.jpg" />
 #+OPTIONS: toc:nil num:nil html-style:nil
 # #+INFOJS_OPT: view:info toc:nil path:/chrome/org-info.js
 #+AUTHOR: Jörg Kollmann
 #+TITLE: Welcome to ...
+#+DATE: 2020-11-04
+
+# TODO: insert publication dates
 
 * ... my timeline
-This might grow into a blog.
+# This might grow into a blog.
 
 # ** Handling Minor and Major Upgrades in NetBSD
-** [[https:./articles-netbsd-backup/][Backup and restore in NetBSD]]
+
+** [[https:./articles-timecapsule-crossbuild/][Cross-building time capsule binaries to backup NetBSD]]           :2020:11:04:
+ About cross-compiling binaries for time capsule devices. Used here to
+ enable easy access to backups when restoring from an unmodified NetBSD
+ installation medium.
+
+** [[https:./articles-netbsd-backup/][Backup and restore in NetBSD]]                                  :2020:06:08:
 Putting together the bits and pieces of a backup and restore concept,
 while not being rocket science, always seems to be a little bit
 ungrateful. Most Admin Handbooks handle this topic only within few
@@ -22,7 +26,7 @@ pages. After replacing my old Mac Mini's OS by NetBSD, I tried to
 implement an automated backup, allowing me to handle it similarly to
 the time machine backups I've been using before.
 
-** [[https:./articles-netbsd-install/][Experiences Installing NetBSD on a PPC based Mac Mini]]
+** [[https:./articles-netbsd-install/][Experiences Installing NetBSD on a PPC based Mac Mini]]         :2020:05:19:
 Over the easter days I was planning to resurrect my trusty ppc based Mac Mini and
 to replace the old OSX 10.4 with a newer, but still BSD-based operating system.
 Unfortunately, as it seems, there are a few obstacles to
@@ -41,3 +45,11 @@ probably should be put into proper packages instead...
 # * TeX
 # * Oberon
 # * Programming in general
+
+* COMMENT Local Variables
+  # Local Variables:
+  # org-html-htmlize-output-type: css
+  # org-html-postamble-format:(("en" "<p class=\"author\">Author: %a (Reddit: <a href=\"https://www.reddit.com/user/e17i\">u/e17i</a>)</p> <p>Made on emacs org-mode with <a href=\"https://jessekelly881-rethink.surge.sh/\">Rethink</a></p>"))
+  # org-html-postamble: t
+  # org-html-preamble: nil
+  # End:
