@@ -13,6 +13,12 @@
 
 # ** Handling Minor and Major Upgrades in NetBSD
 
+** [[https:./articles_recursion_oberon/][Transforming recursive Algorithms into iterative loops (in Oberon)]] :2021:02:02:
+ Some years ago, I was trying to wrap my head around how to transform
+ recursions into iterative loops. The way to go would be transforming
+ typical recursions (e.g. derived from mathematical definitions) into
+ tail call recursions, which can then easily be expressed as loops.
+
 ** [[https:./articles-timecapsule-crossbuild/][Cross-building time capsule binaries to backup NetBSD]]           :2020:11:04:
  About cross-compiling binaries for time capsule devices. Used here to
  enable easy access to backups when restoring from an unmodified NetBSD
