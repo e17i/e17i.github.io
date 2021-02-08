@@ -13,6 +13,12 @@
 
 # ** Handling Minor and Major Upgrades in NetBSD
 
+** [[https:./articles-emacs-display-1/][Configuring the Emacs display system]]                          :2021:02:02:
+
+A topic of long and outstanding troubles for me has been the automatic
+selection of the /other window/ in emacs. I tried to solve the
+question on how to change this behaviour (at least for me).
+
 ** [[https:./articles_recursion_oberon/][Transforming recursive Algorithms into iterative loops (in Oberon)]] :2021:02:02:
  Some years ago, I was trying to wrap my head around how to transform
  recursions into iterative loops. The way to go would be transforming
