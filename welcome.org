@@ -13,7 +13,7 @@
 
 # ** Handling Minor and Major Upgrades in NetBSD
 
-** [[https:./articles-emacs-display-1/][Configuring the Emacs display system]]                          :2021:02:08:
+** [[https:./articles-emacs-display-1/][Configuring the Emacs display system]]                          :2021:02:09:
 
 A topic of long and outstanding troubles for me has been the automatic
 selection of the /other window/ in emacs. I tried to solve the
