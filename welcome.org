@@ -1,4 +1,4 @@
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/chrome/rethink.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/chrome/rethink.css" /><a rel="me" href="https://mastodon.social/@joergkb">Mastodon</a>
 #+HTML_HEAD_EXTRA: <img src="/chrome/image1.jpg" />
 #+OPTIONS: toc:nil num:nil html-style:nil
 # #+INFOJS_OPT: view:info toc:nil path:/chrome/org-info.js
