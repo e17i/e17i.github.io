@@ -1,4 +1,4 @@
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/chrome/rethink.css" /><a rel="me" href="https://mastodon.social/@joergkb">Mastodon</a>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/chrome/rethink.css" />
 #+HTML_HEAD_EXTRA: <img src="/chrome/image1.jpg" />
 #+OPTIONS: toc:nil num:nil html-style:nil
 # #+INFOJS_OPT: view:info toc:nil path:/chrome/org-info.js
@@ -61,7 +61,7 @@ probably should be put into proper packages instead...
 * COMMENT Local Variables
   # Local Variables:
   # org-html-htmlize-output-type: css
-  # org-html-postamble-format:(("en" "<p class=\"author\">Author: %a (Reddit: <a href=\"https://www.reddit.com/user/e17i\">u/e17i</a>)</p> <p>Made on emacs org-mode with <a href=\"https://jessekelly881-rethink.surge.sh/\">Rethink</a></p>"))
+  # org-html-postamble-format:(("en" "<p class=\"author\">Author: %a (<a rel=\"me\" href=\"https://mastodon.social/@joergkb\">@joergkb@mastodon.social</a>)</p> <p>Made on emacs org-mode with <a href=\"https://jessekelly881-rethink.surge.sh/\">Rethink</a></p>"))
   # org-html-postamble: t
   # org-html-preamble: nil
   # End:
