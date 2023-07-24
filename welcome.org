@@ -16,7 +16,7 @@ and I might want to remember. Restarting after a longer break..
 
 # ** Handling Minor and Major Upgrades in NetBSD
 
-** [[https:./articles-emacs-lisp-2/][On Function/Value Namespaces in Emacs Lisp]]  :2023:04:04:
+** [[https:./articles-emacs-lisp-2/][On Function/Value Namespaces in Emacs Lisp]]  :2023:07:24:
 
 Trying to understand the separate namespaces for functions
 and values in Lisp_2, I was diving into that a little bit, taking some
