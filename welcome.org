@@ -16,7 +16,22 @@ and I might want to remember. Restarting after a longer break..
 
 # ** Handling Minor and Major Upgrades in NetBSD
 
-** [[https:./articles-emacs-lisp-2/][On Function/Value Namespaces in Emacs Lisp]]  :2023:07:24:
+** [[https:./unix-sam][Discovering the /sam/ editor]]                     :2024:04:12:
+
+In Kernighan's book /UNIX: a history and a memoir/, he mentions the
+editor /sam/, which seems to have been in use by many well known
+members of the IT scene. So, when reading that book, I got curious and
+did a few experiments with this editor.
+
+# ** [[https:./articles-functional][WIP: Haskell-like semantics in Emacs LISP]]                     :2023:08:03:
+#
+# Reading the first chapter of `Algorithm design with Haskell` (and
+# learning Haskell by the way), I really liked the idiomatic ways of
+# concisely expressing functions by means of composition, partial
+# application and lazy evaluation. So I was wondering how these ideas
+# could be implemented with emacs lisp.
+
+** [[https:./articles-emacs-lisp-2/][On Function/Value Namespaces in Emacs Lisp]]                    :2023:07:24:
 
 Trying to understand the separate namespaces for functions
 and values in Lisp_2, I was diving into that a little bit, taking some
